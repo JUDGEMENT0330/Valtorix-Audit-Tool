@@ -442,7 +442,7 @@ export default function HomePage() {
                 <title>Cyber Security Toolkit - Herramientas de Ciberseguridad</title>
                 <meta name="description" content="Herramientas profesionales de ciberseguridad y análisis web" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
                 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
             </Head>
             
